@@ -1,0 +1,12 @@
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(32, 25, 36);
+    border: 2px solid rgb(85, 0, 75);
+    box-sizing: border-box;
+    cursor: pointer;
+    outline: none;
+    font-size: 95px;
+    font-weight: lighter;
+    color: rgb(177, 177, 177);
+}
